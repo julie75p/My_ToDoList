@@ -8,7 +8,7 @@ README Instructions
 ## Normes : Valide JSLINT et W3C 
 ## Platforme : Mobile, tablette et desktop (full responsive)
 
-![alt tag](http://hpics.li/a0d8b68)
+![alt tag](http://img15.hostingpics.net/pics/811019mytodolist.png)
 
 My_ToDoList est une api web pour effectuer une liste de tâches.
 Ajoutez une tâche dans le champ "entrer une tâche" puis validez avec le bouton.
